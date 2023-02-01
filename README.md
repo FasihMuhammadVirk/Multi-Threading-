@@ -1,2 +1,2 @@
-# Multi-Threading
+# Threading-On-String
 The code creates four threads that perform different operations on a string input by the user. The input thread gets the input string from the user, and the reverse, capital, and shift threads each perform their respective operations on the input string. The main thread starts all four threads and waits for them to finish before exiting. The reverse thread reverses the input string and prints the reversed string to the console, the capital thread capitalizes the input string and prints the capitalized string to the console, and the shift thread shifts each character in the input string by two and prints the shifted string to the console.
